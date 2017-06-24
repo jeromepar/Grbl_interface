@@ -1,6 +1,6 @@
 # Grbl Interface
 
-##The aim of the project is to insert an arduino mega between the PC & Grbl device.
+## The aim of the project is to insert an arduino mega between the PC & Grbl device.
 
 ## Two goals:
 - controlling the CNC/3D printer without a computer
